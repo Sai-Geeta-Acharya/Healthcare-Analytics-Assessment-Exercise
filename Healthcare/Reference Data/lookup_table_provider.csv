@@ -1,0 +1,392 @@
+﻿Provider ID,Provider name,Provider Service
+PHY_000351,"Velez, L",Pediatrics
+PHY_000387,"Boyd, C",OB/Gyn
+PHY_000439,"Mckay, O",Interventional Cardiology
+PHY_000442,"Bowers, M",Pulmonary Medicine
+PHY_000444,"Hodges, M",Vascular Surgery
+PHY_000466,"George, Z",Pediatric Orthopedics
+PHY_000490,"Mcpherson, F",Internal Medicine
+PHY_000495,"Bennett, F",Orthopedic Surgery
+PHY_000504,"Rosario, Z",Emergency Medicine
+PHY_000541,"Cohen, M",OB/Gyn
+PHY_000557,"Singleton, A",General Surgery
+PHY_000571,"Greene, C",OB/Gyn
+PHY_000579,"Baird, D",Vascular Surgery
+PHY_000583,"Waters, G",Pediatrics
+PHY_000594,"Harrell, L",OB/Gyn
+PHY_000605,"Woodard, H",OB/Gyn
+PHY_000609,"Sandoval, N",OB/Gyn
+PHY_000613,"Bernard, Y",Pediatrics
+PHY_000647,"Mooney, A",Orthopedic Surgery
+PHY_000659,"Lester, Y",Family Medicine
+PHY_000660,"Schultz, H",Pediatrics
+PHY_000669,"Gillespie, W",Pediatrics
+PHY_000672,"Bailey, S",Pediatrics
+PHY_000683,"Berg, H",Gynecologic Oncology
+PHY_000688,"Palmer, I",OB/Gyn
+PHY_000704,"Chandler, H",Surgery/Trauma Surgery
+PHY_000739,"Petty, D",Neurosurgery
+PHY_000740,"Tyler, C",Neurosurgery
+PHY_000769,"Kim, U",Pediatric Hematology/Oncology
+PHY_000794,"Howe, P",Nephrology
+PHY_000795,"Lawson, W",Pediatrics
+PHY_000803,"Aguirre, D",Pediatrics
+PHY_000809,"Shields, R",Orthopedic Surgery
+PHY_000819,"Mitchell, C",Orthopedic Surgery
+PHY_000859,"Rollins, P",Oncology/Hematology
+PHY_000869,"Stanley, Z",Internal Medicine
+PHY_000871,"Duran, F",OB/Gyn
+PHY_000886,"Goodman, H",Emergency Medicine
+PHY_000887,"Mathis, H",Family Medicine
+PHY_000889,"Simon, T",Orthopedic Surgery
+PHY_000890,"Wright, Y",Thoracic Surgery
+PHY_000901,"Riddle, N",Neurosurgery
+PHY_000917,"King, S",Pediatrics
+PHY_000932,"Pope, T",Pediatrics
+PHY_000952,"Dalton, N",OB/Gyn
+PHY_000997,"Goodwin, B",OB/Gyn
+PHY_001003,"Rojas, I",Neurosurgery
+PHY_001012,"Roberson, T",Vascular Surgery
+PHY_001013,"Thornton, V",Urologic Surgery
+PHY_001016,"Figueroa, S",Surgery/Trauma Surgery
+PHY_001023,"Blake, G",Colon and Rectal Surgery
+PHY_001035,"Lee, Y",Cardiology
+PHY_001040,"Klein, Z",OB/Gyn
+PHY_001058,"Hull, C",Internal Medicine
+PHY_001097,"Dorsey, T",Pain Management
+PHY_001116,"Washington, K",OB/Gyn
+PHY_001128,"Cooke, W",Orthopedic Surgery
+PHY_001134,"James, B",OB/Gyn
+PHY_001209,"Hart, J",Internal Medicine
+PHY_001218,"Hendrix, H",Surgery/Trauma Surgery
+PHY_001222,"Miller, P",Emergency Medicine
+PHY_001249,"Rogers, M",Gastroenterology
+PHY_001250,"Roy, L",Ent-Otolaryngology
+PHY_001260,"Jenkins, P",Pediatric Hematology/Oncology
+PHY_001282,"Holder, F",Internal Medicine
+PHY_001285,"Kaufman, Y",Pediatrics
+PHY_001300,"Chang, V",Pediatrics
+PHY_001302,"Kirk, D",Internal Medicine
+PHY_001313,"Stafford, Y",Neurosurgery
+PHY_001332,"Lindsay, Z",Pediatrics
+PHY_001338,"Higgins, L",Pediatrics
+PHY_001356,"Keith, C",Interventional Cardiology
+PHY_001361,"Castro, Z",Internal Medicine
+PHY_001365,"Mueller, G",Orthopedic Surgery
+PHY_001367,"Daugherty, Z",Orthopedic Surgery
+PHY_001371,"Mills, A",Pediatrics
+PHY_001375,"Villarreal, R",Orthopedic Surgery
+PHY_001376,"Anderson, Y",Orthopedic Surgery
+PHY_001382,"Porter, C",Pediatric Critical Care Medicine
+PHY_001406,"Rosales, J",Internal Medicine
+PHY_001502,"Strickland, L",Cardiology
+PHY_001520,"Carver, Q",Pediatric Critical Care Medicine
+PHY_001529,"Hines, W",Pediatric Orthopedics
+PHY_001561,"King, N",Urologic Oncology
+PHY_001607,"Santos, U",Interventional Cardiology
+PHY_001651,"Nguyen, P",Vascular Surgery
+PHY_001656,"Curry, R",Orthopedic Surgery
+PHY_001772,"Meyers, W",Pediatrics
+PHY_001793,"Mcintosh, Y",Neurosurgery
+PHY_001813,"Calderon, O",Interventional Cardiology
+PHY_001818,"Rios, Q",Internal Medicine
+PHY_001851,"Reilly, U",Urologic Surgery
+PHY_001852,"Snider, O",Orthopedic Surgery
+PHY_001860,"Bray, B",Cardiology
+PHY_001862,"Barnes, A",Internal Medicine
+PHY_001863,"Bruce, G",Neurosurgery
+PHY_001865,"Hansen, A",Pediatrics
+PHY_001869,"Torres, F",Internal Medicine
+PHY_001876,"Walton, H",Pediatrics
+PHY_001878,"Boyd, G",Neurosurgery
+PHY_001890,"Guerrero, F",General Surgery
+PHY_001914,"Lawrence, I",Internal Medicine
+PHY_001923,"Davenport, H",Gynecologic Oncology
+PHY_001940,"Patterson, G",Internal Medicine
+PHY_001979,"Henry, G",Vascular Surgery
+PHY_001998,"Hopper, A",Family Medicine
+PHY_002015,"Newman, Z",Emergency Medicine
+PHY_002018,"Waller, V",OB/Gyn
+PHY_002021,"Sweeney, U",Colon and Rectal Surgery
+PHY_002056,"Rocha, Y",Internal Medicine
+PHY_002066,"Langley, D",Internal Medicine
+PHY_002082,"Haley, S",Family Medicine
+PHY_002085,"Shields, K",General Surgery
+PHY_002125,"Mcmillan, Q",Emergency Medicine
+PHY_002140,"Hudson, U",Vascular Surgery
+PHY_002168,"Aguirre, L",OB/Gyn
+PHY_002224,"Saunders, C",Pediatric Critical Care Medicine
+PHY_002238,"Farley, V",Pediatric General Surgery
+PHY_002241,"Newton, N",Internal Medicine
+PHY_002246,"Hughes, I",OB/Gyn
+PHY_002255,"Russo, W",Family Medicine
+PHY_002257,"Macdonald, G",General Surgery
+PHY_002260,"Cooke, V",OB/Gyn
+PHY_002262,"Townsend, T",Internal Medicine
+PHY_002277,"Bender, H",General Surgery
+PHY_002282,"Rodriquez, P",Interventional Cardiology
+PHY_002321,"Velez, T",Internal Medicine
+PHY_002327,"Pennington, C",Pediatrics
+PHY_002371,"Sandoval, T",Internal Medicine
+PHY_002386,"Hickman, C",Pediatrics
+PHY_002410,"Suarez, G",Internal Medicine
+PHY_002426,"Rojas, K",OB/Gyn
+PHY_002442,"Ratliff, N",Neurosurgery
+PHY_002446,"Christian, N",Pediatric Critical Care Medicine
+PHY_002451,"Knox, C",Thoracic Surgery
+PHY_002484,"Wade, Y",Orthopedic Surgery
+PHY_002490,"Mcintosh, B",Family Medicine
+PHY_002491,"Morrison, S",Internal Medicine
+PHY_002526,"Sparks, Z",Orthopedic Surgery
+PHY_002546,"Becker, K",Neonatology
+PHY_002550,"Webster, I",Neonatology
+PHY_002560,"Bernard, O",Orthopedic Surgery
+PHY_002578,"Kim, T",Internal Medicine
+PHY_002648,"Carson, N",Urologic Surgery
+PHY_002651,"Mcpherson, A",Cardiology
+PHY_002671,"Shaffer, D",Pediatrics
+PHY_002672,"Walsh, Q",Neonatal-Perinatal Medicine
+PHY_002700,"Woodard, B",OB/Gyn
+PHY_002716,"Burch, T",Obstetrics/Gynecology
+PHY_002747,"Gamble, W",Pulmonary Medicine
+PHY_002755,"Mooney, L",Internal Medicine
+PHY_002757,"Cummings, Q",Family Medicine
+PHY_002760,"Levy, U",OB/Gyn
+PHY_002772,"Perkins, F",General Surgery
+PHY_002775,"Cotton, P",Internal Medicine
+PHY_002777,"Harmon, L",Internal Medicine
+PHY_002817,"Rowe, A",Family Medicine
+PHY_002866,"Holmes, I",Pediatrics
+PHY_002872,"Dotson, Z",Internal Medicine
+PHY_002888,"Gregory, U",Pediatrics
+PHY_002909,"Valencia, Q",OB/Gyn
+PHY_002911,"Bradshaw, I",Internal Medicine
+PHY_002913,"Coffey, S",Internal Medicine
+PHY_002916,"Nguyen, R",General Surgery
+PHY_002924,"Mcgee, J",Internal Medicine
+PHY_002928,"Fowler, F",General Surgery
+PHY_002933,"Roach, S",Pediatric Hematology/Oncology
+PHY_002937,"Hubbard, H",Internal Medicine
+PHY_002939,"Key, G",OB/Gyn
+PHY_002942,"Hendrix, J",Emergency Medicine
+PHY_002964,"Hunt, M",Internal Medicine
+PHY_002977,"David, M",Internal Medicine
+PHY_002999,"Rowland, I",Internal Medicine
+PHY_003002,"Burns, I",Family Medicine
+PHY_003005,"Mcpherson, D",Cardiology
+PHY_003025,"Harrell, Q",Family Medicine
+PHY_003056,"Fulton, V",Internal Medicine
+PHY_003065,"Skinner, T",Internal Medicine
+PHY_003073,"Dickerson, F",Gynecologic Oncology
+PHY_003076,"Thornton, W",Orthopedic Surgery
+PHY_003080,"Henson, I",Pediatrics
+PHY_003089,"Banks, F",Internal Medicine
+PHY_003115,"Leblanc, D",Internal Medicine
+PHY_003134,"Ward, O",Pediatrics
+PHY_003166,"Newton, Q",Family Medicine
+PHY_003170,"Mccarty, W",Internal Medicine
+PHY_003214,"Patrick, T",Internal Medicine
+PHY_003216,"Stanley, T",Family Medicine
+PHY_003220,"Moss, O",Internal Medicine
+PHY_003225,"Quinn, T",Pediatric Endocrinology
+PHY_003243,"Cohen, J",Internal Medicine
+PHY_003244,"Freeman, V",General Surgery
+PHY_003285,"Sims, N",Internal Medicine
+PHY_003296,"King, H",Internal Medicine
+PHY_003308,"Mckee, W",Cardiology
+PHY_003312,"Pugh, N",Pediatrics
+PHY_003314,"Faulkner, G",Trauma Surgery
+PHY_003349,"Whitney, K",Family Medicine
+PHY_003361,"Conley, A",Family Medicine
+PHY_003365,"Steele, C",Internal Medicine
+PHY_003368,"Dickerson, Q",Family Medicine
+PHY_003370,"Farley, I",Colon and Rectal Surgery
+PHY_003373,"Arnold, F",Internal Medicine
+PHY_003389,"Luna, K",Family Medicine
+PHY_003402,"Knox, U",Internal Medicine
+PHY_003417,"Gordon, T",Colon and Rectal Surgery
+PHY_003446,"Bennett, K",Family Medicine
+PHY_003452,"Bolton, F",Family Medicine
+PHY_003455,"Gonzales, V",Internal Medicine
+PHY_003479,"Cameron, J",Family Medicine
+PHY_003492,"Quinn, U",Internal Medicine
+PHY_003495,"Levine, U",OB/Gyn
+PHY_003515,"Arnold, W",Orthopedic Surgery
+PHY_003535,"Joyner, F",Family Medicine
+PHY_003543,"Wilkerson, F",Emergency Medicine
+PHY_003545,"Garrison, C",General Surgery
+PHY_003569,"Meyer, G",Internal Medicine
+PHY_003574,"Lancaster, U",OB/Gyn
+PHY_003582,"Dixon, K",Orthopedic Surgery
+PHY_003595,"Bentley, Z",Internal Medicine
+PHY_003606,"Stevenson, U",Internal Medicine
+PHY_003608,"Clayton, G",Internal Medicine
+PHY_003611,"Levine, G",Internal Medicine
+PHY_003619,"Le, Q",Internal Medicine
+PHY_003641,"Mueller, O",Nephrology
+PHY_003655,"Alford, C",Family Medicine
+PHY_003707,"Kemp, D",Trauma Surgery
+PHY_003777,"Cunningham, H",Internal Medicine
+PHY_003778,"Johns, Y",Orthopedic Surgery
+PHY_003793,"Spence, B",Internal Medicine
+PHY_003795,"Benton, K",Family Medicine
+PHY_003802,"Mckay, P",Pediatric General Surgery
+PHY_003807,"Cox, T",Internal Medicine
+PHY_003840,"Sargent, Y",Internal Medicine
+PHY_003842,"Strickland, J",Internal Medicine
+PHY_003849,"Frost, J",Internal Medicine
+PHY_003851,"Harris, N",Pediatrics
+PHY_003860,"Watkins, I",Family Medicine
+PHY_003866,"Spears, N",Internal Medicine
+PHY_003883,"Gordon, P",Pediatrics
+PHY_003889,"Pratt, O",Pediatrics
+PHY_003897,"Pittman, J",Endocrinology
+PHY_003903,"Dyer, R",Orthopedic Surgery
+PHY_003906,"Sears, Q",Family Medicine
+PHY_003911,"Joyner, N",Family Medicine
+PHY_003941,"Greene, S",OB/Gyn
+PHY_003953,"Kinney, V",Family Medicine
+PHY_003975,"Durham, P",General Surgery
+PHY_004032,"Bond, I",Pediatrics
+PHY_004042,"Key, T",Internal Medicine
+PHY_004068,"Horn, O",Obstetrics/Gynecology
+PHY_004083,"Burns, R",General Surgery
+PHY_004084,"Dale, Q",Obstetrics/Gynecology
+PHY_004087,"English, S",General Surgery
+PHY_004134,"Nieves, B",Internal Medicine
+PHY_004137,"Swanson, T",Thoracic Surgery
+PHY_004158,"Hayden, G",Family Medicine
+PHY_004165,"Fitzgerald, Q",OB/Gyn
+PHY_004184,"Ramos, F",Internal Medicine
+PHY_004185,"Patterson, M",Urologic Surgery
+PHY_004189,"Hayes, L",Pediatric Endocrinology
+PHY_004196,"Kramer, H",General Surgery
+PHY_004207,"Payne, F",Internal Medicine
+PHY_004250,"Roy, N",Family Medicine
+PHY_004277,"Cote, N",Internal Medicine
+PHY_004303,"Mcbride, N",Cardiology
+PHY_004309,"Moss, P",Surgery/Trauma Surgery
+PHY_004327,"Goff, U",Pediatric Hematology/Oncology
+PHY_004340,"Munoz, C",Orthopedic Surgery
+PHY_004367,"Harding, P",Internal Medicine
+PHY_004380,"Kim, M",Internal Medicine
+PHY_004384,"Murray, F",Internal Medicine
+PHY_004412,"Maddox, V",Family Medicine
+PHY_004421,"Bright, M",Internal Medicine
+PHY_004452,"Decker, G",Internal Medicine
+PHY_004473,"Morales, R",Internal Medicine
+PHY_004477,"Wong, N",Orthopedic Surgery
+PHY_004495,"Mcdonald, D",Internal Medicine
+PHY_004508,"Harper, A",Neonatology
+PHY_004513,"Ramirez, P",Family Medicine
+PHY_004522,"Roach, R",Gynecologic Oncology
+PHY_004523,"Walton, Z",Family Medicine
+PHY_004528,"Owen, T",Internal Medicine
+PHY_004541,"Meyers, B",Internal Medicine
+PHY_004551,"Ellison, H",OB/Gyn
+PHY_004591,"Greer, A",Internal Medicine
+PHY_004597,"Daniel, Z",Internal Medicine
+PHY_004602,"Bruce, B",Internal Medicine
+PHY_004616,"Joseph, L",Internal Medicine
+PHY_004629,"Conway, D",Family Medicine
+PHY_004639,"Parsons, L",Internal Medicine
+PHY_004658,"Palmer, G",Internal Medicine
+PHY_004667,"Compton, F",Internal Medicine
+PHY_004668,"Frank, U",Family Medicine
+PHY_004676,"Stevens, B",Internal Medicine
+PHY_004679,"Fitzgerald, H",Internal Medicine
+PHY_004692,"Workman, K",General Surgery
+PHY_004701,"Dudley, W",Family Medicine
+PHY_004707,"Richard, W",Internal Medicine
+PHY_004709,"Barton, H",Internal Medicine
+PHY_004723,"Santos, K",Internal Medicine
+PHY_004729,"Green, C",OB/Gyn
+PHY_004745,"Carson, L",General Surgery
+PHY_004757,"Carr, O",Internal Medicine
+PHY_004760,"Pratt, M",Internal Medicine
+PHY_004764,"Byers, W",Internal Medicine
+PHY_004768,"Rasmussen, H",Family Medicine
+PHY_004777,"Mullen, H",Internal Medicine
+PHY_004790,"Mclaughlin, L",Internal Medicine
+PHY_004810,"Cote, P",Internal Medicine
+PHY_004850,"Delaney, Z",Neonatology
+PHY_004855,"Landry, N",Internal Medicine
+PHY_004862,"Malone, R",Neurosurgery
+PHY_004936,"Hansen, M",Neonatology
+PHY_004939,"Lawrence, T",Neonatology
+PHY_004965,"Bush, T",Internal Medicine
+PHY_004990,"Huff, K",Internal Medicine
+PHY_005012,"Alvarez, L",Ent-Otolaryngology
+PHY_005016,"Hoffman, D",Internal Medicine
+PHY_005046,"Dunn, Q",Neonatology
+PHY_005172,"Rios, I",Internal Medicine
+PHY_005230,"Ortega, K",Internal Medicine
+PHY_005581,"Fisher, M",OB/Gyn
+PHY_005930,"Vargas, D",Vascular Surgery
+PHY_006138,"Wells, F",
+PHY_006173,"White, M",
+PHY_007007,"Le, I",
+PHY_012926,"Burt, D",
+PHY_013134,"Carson, L",
+PHY_013480,"Holland, K",
+PHY_014678,"Hodges, Q",
+PHY_015134,"Mack, Z",
+PHY_015190,"Roberson, R",
+PHY_015320,"Valencia, Q",
+PHY_015736,"Flowers, N",
+PHY_016863,"Barnett, U",Respiratory Therapy
+PHY_016905,"Reynolds, N",
+PHY_018128,"Mullen, F",Physical Therapy
+PHY_018189,"Mooney, B",
+PHY_018802,"Duran, F",
+PHY_019365,"Hinton, C",
+PHY_019456,"Barry, B",Physician Assistant
+PHY_019528,"Burns, M",Physician Assistant
+PHY_019691,"Moss, M",Physician Assistant
+PHY_019730,"Strong, Q",Cardiology
+PHY_019748,"Elliott, A",
+PHY_019749,"Hahn, C",
+PHY_019909,"Blake, L",
+PHY_019982,"Baker, G",
+PHY_020191,"Nielsen, N",
+PHY_020854,"Romero, B",Emergency Medicine
+PHY_021259,"Mcknight, A",Physical Therapy
+PHY_023316,"Charles, W",
+PHY_024856,"Barrera, A",
+PHY_025207,"Benton, B",Nurse Practitioner
+PHY_025216,"Hayes, M",Medical Administration
+PHY_025235,"Mccullough, Q",
+PHY_025241,"Woods, Q",
+PHY_025248,"Bauer, F",
+PHY_025250,"Kemp, A",
+PHY_025305,"Olson, V",
+PHY_026218,"Christian, L",
+PHY_026222,"Noel, F",
+PHY_026223,"Vaughn, Y",
+PHY_026225,"Mcmillan, T",
+PHY_026229,"Cruz, W",
+PHY_026231,"Lowe, I",
+PHY_026402,"Boyer, I",OB/Gyn
+PHY_026404,"Carpenter, S",Certified Nurse Midwife
+PHY_026410,"Mathis, B",Certified Nurse Midwife
+PHY_026412,"Pratt, K",Nurse Practitioner
+PHY_026417,"Young, L",Physician Assistant
+PHY_026418,"Benjamin, N",Physician Assistant
+PHY_026421,"Mcfarland, I",Physician Assistant
+PHY_026423,"Trujillo, P",Certified Registered Nurse Anesthetist
+PHY_026424,"Berger, C",Certified Registered Nurse Anesthetist
+PHY_026425,"Bernard, V",Nurse Practitioner
+PHY_026427,"Mercer, H",Certified Nurse Midwife
+PHY_026428,"Oliver, M",Certified Registered Nurse Anesthetist
+PHY_026430,"Crawford, J",Anesthesiologist Assistant
+PHY_026431,"Edwards, N",Nurse Practitioner
+PHY_026545,"Espinoza, Z",Orthopedic Surgery
+PHY_026552,"Schwartz, V",Nutrition
+PHY_026555,"Fernandez, W",Nutrition
+PHY_026562,"Sellers, H",Nutrition
+PHY_026598,"Riley, S",Orthopedic Surgery
+PHY_026604,"Leon, L",Certified Nurse Midwife
+PHY_026605,"Norton, U",Certified Nurse Midwife
+PHY_026618,"Henderson, W",
+PHY_026624,"Lopez, T",
+PHY_026625,"Malone, A",
